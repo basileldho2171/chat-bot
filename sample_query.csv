@@ -1,0 +1,865 @@
+Student_Query,Target_Intent
+What is the course syllabus structure details?,course_syllabus_en
+tell me the syllabus,course_syllabus_en
+where can I find the syllabus,course_syllabus_en
+tell me the course structure,course_syllabus_en
+what are the subjects in this course,course_syllabus_en
+syllabus details please,course_syllabus_en
+How many subjects are included course semester?,course_subjects_en
+subjects per sem,course_subjects_en
+how many papers do we have,course_subjects_en
+list the subjects for this year,course_subjects_en
+what modules will i study,course_subjects_en
+how many courses per semester,course_subjects_en
+What is course duration total years?,course_duration_en
+how long is the course,course_duration_en
+total duration of the degree,course_duration_en
+how many years will this take,course_duration_en
+what is the timeline for the program,course_duration_en
+duration of the studies,course_duration_en
+Is this course approved university recognition?,course_recognition_en
+is it university approved,course_recognition_en
+is this degree recognized,course_recognition_en
+does this have UGC approval,course_recognition_en
+is the program accredited by the govt,course_recognition_en
+will my degree be valid outside,course_recognition_en
+What are course eligibility criteria requirements?,course_eligibility_en
+eligibility for admission,course_eligibility_en
+who is eligible for this course,course_eligibility_en
+can I apply for this course,course_eligibility_en
+what are the requirements to join,course_eligibility_en
+minimum marks needed for admission,course_eligibility_en
+Does course include internship training program?,course_internship_en
+any internships provided,course_internship_en
+is internship compulsory,course_internship_en
+do we get industrial training,course_internship_en
+will the college give us internships,course_internship_en
+is there a practical work placement,course_internship_en
+What are course learning outcomes expected?,course_learning_outcomes_en
+what will i learn,course_learning_outcomes_en
+skills gained from this degree,course_learning_outcomes_en
+what is the takeaway from this program,course_learning_outcomes_en
+learning objectives of the course,course_learning_outcomes_en
+How to download course curriculum PDF?,download_curriculum_en
+download syllabus pdf,download_curriculum_en
+where to get the pdf of the subjects,download_curriculum_en
+can i download the course structure,download_curriculum_en
+link to the curriculum pdf,download_curriculum_en
+i want a copy of the syllabus,download_curriculum_en
+Is course available online offline mode?,course_delivery_mode_en
+is there online classes,course_delivery_mode_en
+can i study this remotely,course_delivery_mode_en
+is it a regular offline class,course_delivery_mode_en
+what is the mode of teaching,course_delivery_mode_en
+do i have to come to campus daily,course_delivery_mode_en
+What is course specialization options available?,course_specializations_en
+what specializations do u offer,course_specializations_en
+can i choose my major,course_specializations_en
+list of available electives and majors,course_specializations_en
+which streams are available to pick,course_specializations_en
+How many credits required course completion?,course_credits_en
+total credits to pass,course_credits_en
+what is the credit limit,course_credits_en
+how many points to graduate,course_credits_en
+minimum credits for degree,course_credits_en
+What is course admission process steps?,course_admission_process_en
+how to apply,course_admission_process_en
+admission procedure,course_admission_process_en
+steps to get enrolled,course_admission_process_en
+how do i register for this college,course_admission_process_en
+guide me through the application,course_admission_process_en
+What is course fee structure details?,course_fee_structure_en
+how much is the fees,course_fee_structure_en
+what is the total cost,course_fee_structure_en
+tell me the tuition fee,course_fee_structure_en
+how much do i have to pay per semester,course_fee_structure_en
+give me the fee breakdown,course_fee_structure_en
+Is course suitable beginners background students?,course_beginner_friendly_en
+im a beginner can i join,course_beginner_friendly_en
+do i need prior knowledge for this,course_beginner_friendly_en
+can a fresher take this class,course_beginner_friendly_en
+is it hard for someone with no background,course_beginner_friendly_en
+What is course industry relevance scope?,course_industry_scope_en
+job scope for this course,course_industry_scope_en
+will i get a job after this,course_industry_scope_en
+what are the career options,course_industry_scope_en
+is this degree demanded in the market,course_industry_scope_en
+future prospects of this program,course_industry_scope_en
+What is assignment submission deadline policy?,assignment_deadline_en
+assignment due date,assignment_deadline_en
+when should i submit the assignment,assignment_deadline_en
+what is the last date to upload assignments,assignment_deadline_en
+deadline for project submission,assignment_deadline_en
+How to upload assignment online portal?,assignment_upload_portal_en
+where to submit assignment online,assignment_upload_portal_en
+how to attach my homework,assignment_upload_portal_en
+steps to upload pdf on lms,assignment_upload_portal_en
+i dont know how to submit my work online,assignment_upload_portal_en
+What is late submission penalty marks?,late_submission_penalty_en
+marks cut for late submission,late_submission_penalty_en
+what if i submit my assignment late,late_submission_penalty_en
+is there a fine or mark deduction for delay,late_submission_penalty_en
+will the teacher accept delayed homework,late_submission_penalty_en
+What is minimum attendance percentage required?,minimum_attendance_en
+min attendence to pass,minimum_attendance_en
+how much attendance do i need,minimum_attendance_en
+is 75 percent attendance strict,minimum_attendance_en
+what is the required attendance to write exams,minimum_attendance_en
+How to check attendance status online?,check_attendance_status_en
+view my attendance,check_attendance_status_en
+where can i see my absent days,check_attendance_status_en
+how to track my daily attendance,check_attendance_status_en
+is there a portal to check attendance percentage,check_attendance_status_en
+What is attendance shortage penalty rules?,attendance_shortage_penalty_en
+what happens if attendance is low,attendance_shortage_penalty_en
+punishment for not having enough attendance,attendance_shortage_penalty_en
+will i be detained if i skip classes,attendance_shortage_penalty_en
+consequences of short attendance,attendance_shortage_penalty_en
+will parents get my marks,grades_shared_parents_en
+can my parents see my grades online,grades_shared_parents_en
+is the grade card sent home to parents,grades_shared_parents_en
+do parents have access to the results portal,grades_shared_parents_en
+how do my parents check my final marks,grades_shared_parents_en
+How can I check the schedule for my class timetable?,check_class_timetable_en
+where is the class timetable,check_class_timetable_en
+how do i find out my class timings,check_class_timetable_en
+where is the daily schedule posted,check_class_timetable_en
+can i view my timetable online,check_class_timetable_en
+how to check what classes i have today,check_class_timetable_en
+What is the notification system for timetable updates?,timetable_update_notification_en
+how will i know if timetable changes,timetable_update_notification_en
+will i get a message if class is cancelled,timetable_update_notification_en
+how are timetable updates sent to students,timetable_update_notification_en
+do we get sms alerts for schedule changes,timetable_update_notification_en
+Are students informed about any timetable changes?,timetable_changes_informed_en
+do u inform about cancelled classes,timetable_changes_informed_en
+how do we know if a teacher is absent,timetable_changes_informed_en
+is there an announcement for rescheduled classes,timetable_changes_informed_en
+who tells us if the class timing shifts,timetable_changes_informed_en
+What are the timing details for the lab schedule?,lab_schedule_timing_en
+lab timings,lab_schedule_timing_en
+when are the practical sessions scheduled,lab_schedule_timing_en
+how long is a lab period,lab_schedule_timing_en
+where to find the lab session timings,lab_schedule_timing_en
+How do I download the timetable as a PDF file?,download_timetable_pdf_en
+how to get timetable pdf,download_timetable_pdf_en
+can i download the class schedule,download_timetable_pdf_en
+where is the link to download timetable,download_timetable_pdf_en
+how to save the timetable on my phone,download_timetable_pdf_en
+What is the availability of the weekend class schedule?,weekend_class_schedule_en
+do we have class on saturday,weekend_class_schedule_en
+are there any classes on sundays,weekend_class_schedule_en
+is the college open on weekends for classes,weekend_class_schedule_en
+weekend batch timings,weekend_class_schedule_en
+Are extra classes scheduled on holidays?,extra_classes_holidays_en
+class on public holidays,extra_classes_holidays_en
+do we have to come to college on a holiday,extra_classes_holidays_en
+are special classes held on off days,extra_classes_holidays_en
+will there be extra lectures on public holidays,extra_classes_holidays_en
+What is the process for resolving a timetable clash?,timetable_clash_resolution_en
+two classes at same time,timetable_clash_resolution_en
+what if my electives have a time clash,timetable_clash_resolution_en
+how to fix overlapping class schedules,timetable_clash_resolution_en
+who to contact for timetable conflicts,timetable_clash_resolution_en
+How can I view the timetable allocation for faculty?,view_faculty_timetable_en
+teachers free time,view_faculty_timetable_en
+when is the teacher free,view_faculty_timetable_en
+how to check faculty class schedule,view_faculty_timetable_en
+where to see the timetable of professors,view_faculty_timetable_en
+What is the timing period for a single class duration?,class_duration_period_en
+how long is one period,class_duration_period_en
+what is the duration of a lecture,class_duration_period_en
+how many minutes is one class,class_duration_period_en
+timing of a single theory class,class_duration_period_en
+Are online class timings different from the regular schedule?,online_class_timings_en
+time for online classes,online_class_timings_en
+do online classes follow the same timetable,online_class_timings_en
+schedule for remote learning sessions,online_class_timings_en
+what time do online lectures start,online_class_timings_en
+What is the semester-wise plan for the timetable?,semester_timetable_plan_en
+whole semester schedule,semester_timetable_plan_en
+when do we get the timetable for the new semester,semester_timetable_plan_en
+is the timetable fixed for the whole semester,semester_timetable_plan_en
+how often does the timetable change,semester_timetable_plan_en
+How do I request an approval for a timetable change?,request_timetable_change_en
+can we change class timings,request_timetable_change_en
+how to request a shift in class hours,request_timetable_change_en
+can the class rep ask to change the timetable,request_timetable_change_en
+process for modifying the batch schedule,request_timetable_change_en
+When is the announcement date for the exam timetable?,exam_timetable_announcement_en
+when will exam dates come,exam_timetable_announcement_en
+how early is the exam schedule released,exam_timetable_announcement_en
+when do they publish the datesheet,exam_timetable_announcement_en
+date of final exam timetable announcement,exam_timetable_announcement_en
+Are remedial classes scheduled as extra sessions?,remedial_classes_schedule_en
+time for special classes,remedial_classes_schedule_en
+when are remedial classes held,remedial_classes_schedule_en
+is there a separate schedule for doubt clearing,remedial_classes_schedule_en
+timings for backup lectures,remedial_classes_schedule_en
+Is there a mobile app for timetable notifications?,timetable_mobile_app_en
+is there an app for timetable,timetable_mobile_app_en
+can i view my schedule on the college app,timetable_mobile_app_en
+mobile application for tracking classes,timetable_mobile_app_en
+how to sync timetable to phone calendar,timetable_mobile_app_en
+How can I track updates to the daily class schedule?,track_daily_schedule_en
+todays classes,track_daily_schedule_en
+how to check day to day schedule changes,track_daily_schedule_en
+where to see today's timetable,track_daily_schedule_en
+daily updates on class timings,track_daily_schedule_en
+What are the rules for adjusting the timetable for holidays?,holiday_timetable_adjustment_en
+compensatory class rules,holiday_timetable_adjustment_en
+how are classes compensated for unexpected holidays,holiday_timetable_adjustment_en
+rules for saturday compensatory classes,holiday_timetable_adjustment_en
+will we have to work on saturday to cover a holiday,holiday_timetable_adjustment_en
+Are timetable conflicts allowed between elective subjects?,timetable_conflicts_electives_en
+elective subjects clash,timetable_conflicts_electives_en
+can i pick two electives at the same time,timetable_conflicts_electives_en
+what happens if elective timings overlap,timetable_conflicts_electives_en
+rules regarding elective schedule conflicts,timetable_conflicts_electives_en
+What are the policy rules regarding timetable flexibility?,timetable_flexibility_en
+can i choose my class time,timetable_flexibility_en
+do we have flexible timings,timetable_flexibility_en
+can i attend a different batch for the same subject,timetable_flexibility_en
+are we allowed to modify our personal timetable,timetable_flexibility_en
+How can I find a faculty member's contact email address?,contact_faculty_email_en
+teachers email id,contact_faculty_email_en
+where to find the professor's email,contact_faculty_email_en
+directory of faculty email addresses,contact_faculty_email_en
+how to contact my lecturer online,contact_faculty_email_en
+What is the schedule for faculty office hours?,faculty_office_hours_en
+when to meet teachers,faculty_office_hours_en
+what are the professor's office hours,faculty_office_hours_en
+when is the teacher available in the cabin,faculty_office_hours_en
+timings to clear doubts with faculty,faculty_office_hours_en
+How do I book an appointment to meet a teacher?,meet_teacher_appointment_en
+how to book appointment with sir,meet_teacher_appointment_en
+can i schedule a meeting with the professor,meet_teacher_appointment_en
+how to request an in-person meeting with faculty,meet_teacher_appointment_en
+procedure to meet faculty members,meet_teacher_appointment_en
+What is the contact phone number for the faculty?,faculty_phone_number_en
+give me teachers phone number,faculty_phone_number_en
+can i get the mobile number of the lecturer,faculty_phone_number_en
+is it allowed to call teachers on their personal number,faculty_phone_number_en
+how to call a faculty member,faculty_phone_number_en
+Are parents allowed to meet with faculty for discussions?,parents_meet_faculty_en
+can parents meet teachers,parents_meet_faculty_en
+how can my parents talk to the professor,parents_meet_faculty_en
+is there a parent teacher meeting,parents_meet_faculty_en
+can parents visit the department to meet faculty,parents_meet_faculty_en
+What is the process for submitting faculty feedback?,faculty_feedback_process_en
+how to give feedback on teacher,faculty_feedback_process_en
+where to submit evaluation for professors,faculty_feedback_process_en
+is faculty feedback anonymous,faculty_feedback_process_en
+how to rate the teaching quality,faculty_feedback_process_en
+How do I report an issue or complaint about a faculty member?,report_faculty_complaint_en
+complain about a teacher,report_faculty_complaint_en
+how to file a grievance against a professor,report_faculty_complaint_en
+where to report bad behavior by faculty,report_faculty_complaint_en
+process to raise a complaint about a lecturer,report_faculty_complaint_en
+What is the student support process for mentor allocation?,mentor_allocation_support_en
+who is my mentor,mentor_allocation_support_en
+how are mentors assigned to students,mentor_allocation_support_en
+where can i find my faculty advisor details,mentor_allocation_support_en
+who is my assigned academic guide,mentor_allocation_support_en
+Are faculty members available for online consultations?,faculty_online_consultation_en
+can i talk to teacher online,faculty_online_consultation_en
+do teachers hold zoom meetings for doubts,faculty_online_consultation_en
+how to arrange a virtual meeting with a professor,faculty_online_consultation_en
+online office hours for faculty,faculty_online_consultation_en
+What is the expected communication response time for faculty?,faculty_response_time_en
+how long for teacher to reply email,faculty_response_time_en
+when will the professor reply to my message,faculty_response_time_en
+what is the standard response time for emails,faculty_response_time_en
+how quickly do teachers reply,faculty_response_time_en
+How can I contact the office of the department head?,contact_department_head_en
+how to meet hod,contact_department_head_en
+where is the hod office,contact_department_head_en
+how to email the head of department,contact_department_head_en
+process to get an appointment with the hod,contact_department_head_en
+What are the responsibilities of a faculty advisory role?,faculty_advisory_role_en
+what does academic advisor do,faculty_advisory_role_en
+how can my mentor help me,faculty_advisory_role_en
+role of the faculty guide,faculty_advisory_role_en
+what issues can i discuss with my advisor,faculty_advisory_role_en
+Are faculty meetings scheduled with parents?,faculty_meetings_parents_en
+pta meeting schedule,faculty_meetings_parents_en
+when is the next parent teacher meeting,faculty_meetings_parents_en
+does the college organize meetings for parents,faculty_meetings_parents_en
+how are parents invited to meet faculty,faculty_meetings_parents_en
+What is the feedback system used for faculty evaluation?,faculty_evaluation_system_en
+rate the teaching,faculty_evaluation_system_en
+how does the college evaluate teachers,faculty_evaluation_system_en
+process for end of semester teacher ratings,faculty_evaluation_system_en
+where is the student evaluation portal,faculty_evaluation_system_en
+How do I request a recommendation letter from a faculty member?,request_recommendation_letter_en
+how to get LOR from teacher,request_recommendation_letter_en
+process to ask for a letter of recommendation,request_recommendation_letter_en
+can my professor write a reference letter for me,request_recommendation_letter_en
+how early should i ask for an lor,request_recommendation_letter_en
+Where can I find the academic rules and regulations handbook?,academic_handbook_en
+where is the rulebook,academic_handbook_en
+how to download the student handbook,academic_handbook_en
+where are the college policies written,academic_handbook_en
+link to the academic regulations pdf,academic_handbook_en
+What is the promotion policy for the next semester?,promotion_policy_semester_en
+rules to go to next semester,promotion_policy_semester_en
+how many subjects to pass to go to next year,promotion_policy_semester_en
+promotion criteria for the next academic year,promotion_policy_semester_en
+what happens if i fail too many subjects,promotion_policy_semester_en
+Are students allowed to take a leave during the semester break?,semester_break_leave_en
+holidays between semesters,semester_break_leave_en
+how long is the winter break,semester_break_leave_en
+when do we get summer holidays,semester_break_leave_en
+can i travel during the semester gap,semester_break_leave_en
+What are the rules for the academic misconduct policy?,academic_misconduct_policy_en
+punishment for misbehavior,academic_misconduct_policy_en
+what counts as disciplinary action,academic_misconduct_policy_en
+rules against ragging and cheating,academic_misconduct_policy_en
+consequences of violating college rules,academic_misconduct_policy_en
+How do I apply for the course withdrawal process?,course_withdrawal_process_en
+how to drop a subject,course_withdrawal_process_en
+can i withdraw from an elective,course_withdrawal_process_en
+process to cancel course registration,course_withdrawal_process_en
+is there a penalty for dropping a class late,course_withdrawal_process_en
+What are the details regarding academic probation criteria?,academic_probation_criteria_en
+what is academic probation,academic_probation_criteria_en
+how low does gpa have to be for probation,academic_probation_criteria_en
+rules for students on academic warning,academic_probation_criteria_en
+what happens if i get placed on probation,academic_probation_criteria_en
+Are students allowed re-admission under the policy?,readmission_policy_en
+how to rejoin college,readmission_policy_en
+can i come back after dropping out,readmission_policy_en
+rules for rejoining after a gap year,readmission_policy_en
+process for readmission into the program,readmission_policy_en
+What are the rules regarding the credit transfer policy?,credit_transfer_policy_en
+transfer credits from another college,credit_transfer_policy_en
+will my past credits be accepted here,credit_transfer_policy_en
+how to apply for a credit transfer,credit_transfer_policy_en
+can i migrate from another university,credit_transfer_policy_en
+How do I process an appeal for academic decisions?,appeal_academic_decision_en
+appeal against poor grades,appeal_academic_decision_en
+how to challenge a disciplinary action,appeal_academic_decision_en
+process for filing an academic appeal,appeal_academic_decision_en
+who do i contact to appeal a suspension,appeal_academic_decision_en
+What are the guidelines for the academic integrity policy?,academic_integrity_policy_en
+rules on cheating and plagarism,academic_integrity_policy_en
+what is the honor code,academic_integrity_policy_en
+academic honesty rules,academic_integrity_policy_en
+policy on using ai for assignments,academic_integrity_policy_en
+What is the deadline date for fee payment?,fee_payment_deadline_en
+last date to pay fees,fee_payment_deadline_en
+when is the semester fee due,fee_payment_deadline_en
+how much time do we have to pay tuition,fee_payment_deadline_en
+fee payment schedule,fee_payment_deadline_en
+How do I pay my fees on the online portal?,pay_fees_online_en
+link to pay college fees,pay_fees_online_en
+how to do online fee payment,pay_fees_online_en
+can i pay tuition using credit card,pay_fees_online_en
+where is the payment gateway,pay_fees_online_en
+What are the rules regarding the fee refund policy?,fee_refund_policy_en
+can i get my fees back,fee_refund_policy_en
+how to claim a refund if i leave college,fee_refund_policy_en
+what is the percentage of refund,fee_refund_policy_en
+rules for getting caution deposit back,fee_refund_policy_en
+Are installment options available for paying fees?,fee_installment_options_en
+pay fees in parts,fee_installment_options_en
+can i pay tuition in emi,fee_installment_options_en
+how to request fee payment in installments,fee_installment_options_en
+is there a monthly payment plan,fee_installment_options_en
+What are the penalty charges for a late fee?,late_fee_penalty_en
+fine for late fee payment,late_fee_penalty_en
+how much is the late payment fine,late_fee_penalty_en
+what happens if i pay fees after deadline,late_fee_penalty_en
+penalty amount for overdue tuition,late_fee_penalty_en
+How do I download the invoice for my fee receipt?,download_fee_receipt_en
+where is my fee receipt,download_fee_receipt_en
+how to get proof of fee payment,download_fee_receipt_en
+downloading the tuition invoice pdf,download_fee_receipt_en
+can i print my fee receipt online,download_fee_receipt_en
+What are the eligibility criteria for getting a scholarship?,scholarship_eligibility_en
+who gets scholarship,scholarship_eligibility_en
+how to apply for merit scholarship,scholarship_eligibility_en
+what are the requirements for financial aid,scholarship_eligibility_en
+do you offer sports scholarships,scholarship_eligibility_en
+Are parents allowed access to make fee payments?,parents_fee_payment_en
+can my parents pay the fees,parents_fee_payment_en
+how can my parents log in to pay tuition,parents_fee_payment_en
+is there a parent portal for fees,parents_fee_payment_en
+sharing fee payment link with family,parents_fee_payment_en
+Is the hostel fee included in the overall course fee?,hostel_fee_included_en
+is hostel fee in tuition fee,hostel_fee_included_en
+does the college fee cover accommodation,hostel_fee_included_en
+are mess charges separate from tuition,hostel_fee_included_en
+what is included in the semester fee,hostel_fee_included_en
+How can I apply to request a fee concession?,apply_fee_concession_en
+how to get fee discount,apply_fee_concession_en
+process for applying for a fee waiver,apply_fee_concession_en
+who to contact for financial hardship concession,apply_fee_concession_en
+is there a discount for siblings studying here,apply_fee_concession_en
+What are the available hours to access the library facilities?,library_access_hours_en
+library timings,library_access_hours_en
+when does the library open and close,library_access_hours_en
+is the library open on weekends,library_access_hours_en
+how late can i stay in the reading room,library_access_hours_en
+How do I use the login to access campus wifi?,campus_wifi_login_en
+whats the wifi password,campus_wifi_login_en
+how to connect my phone to college wifi,campus_wifi_login_en
+process for internet access on campus,campus_wifi_login_en
+where to get the login details for wifi,campus_wifi_login_en
+What support services are available for student counseling?,student_counseling_services_en
+is there a counselor on campus,student_counseling_services_en
+how to book a session with the college therapist,student_counseling_services_en
+mental health support for students,student_counseling_services_en
+where is the student counseling center,student_counseling_services_en
+Are there medical facilities available on the campus?,medical_facilities_campus_en
+what if i fall sick on campus,medical_facilities_campus_en
+is there a doctor or clinic in college,medical_facilities_campus_en
+emergency medical services available,medical_facilities_campus_en
+where is the health center located,medical_facilities_campus_en
+What are the route details for the transport facility?,transport_facility_routes_en
+college bus routes,transport_facility_routes_en
+how to check the college bus timings,transport_facility_routes_en
+where does the campus transport go,transport_facility_routes_en
+how to apply for the bus pass,transport_facility_routes_en
+How can I access the booking for lab equipment?,lab_equipment_booking_en
+how to book lab tools,lab_equipment_booking_en
+process to reserve computers for projects,lab_equipment_booking_en
+can i borrow equipment from the lab,lab_equipment_booking_en
+how to use the lab after hours,lab_equipment_booking_en
+What are the accommodation details for the hostel facility?,hostel_facility_details_en
+rooms in hostel,hostel_facility_details_en
+how are the hostel rooms furnished,hostel_facility_details_en
+what facilities are provided in the dorms,hostel_facility_details_en
+is ac available in the hostel rooms,hostel_facility_details_en
+Are sports facilities available for the students?,sports_facilities_students_en
+do we have a gym,sports_facilities_students_en
+what sports grounds are there on campus,sports_facilities_students_en
+can i play basketball or football here,sports_facilities_students_en
+is the gym free for students,sports_facilities_students_en
+What training programs are provided for placement support?,placement_support_training_en
+do u give placement training,placement_support_training_en
+how does the placement cell help us,placement_support_training_en
+are there interview preparation workshops,placement_support_training_en
+does the college offer resume building classes,placement_support_training_en
+How do I report an issue regarding facility maintenance?,report_maintenance_issue_en
+AC is not working in class,report_maintenance_issue_en
+how to complain about a broken desk,report_maintenance_issue_en
+where to log a maintenance ticket,report_maintenance_issue_en
+who to call if the washroom is dirty,report_maintenance_issue_en
+What is the schedule for the hostel mess food menu?,hostel_mess_menu_en
+food menu in hostel,hostel_mess_menu_en
+where can i check what is for dinner today,hostel_mess_menu_en
+how often does the mess menu change,hostel_mess_menu_en
+who decides the food in the hostel,hostel_mess_menu_en
+What are the timings for breakfast lunch and dinner in the hostel?,hostel_meal_timings_en
+time for lunch in mess,hostel_meal_timings_en
+when is dinner served in the dorm,hostel_meal_timings_en
+what are the strict timings for the mess hall,hostel_meal_timings_en
+how late can i go for breakfast,hostel_meal_timings_en
+Are vegetarian and non-vegetarian food options available in the hostel?,hostel_food_options_en
+is veg food available,hostel_food_options_en
+do they serve chicken in the mess,hostel_food_options_en
+is there a separate section for vegetarians,hostel_food_options_en
+how many times a week is non veg given,hostel_food_options_en
+What is the quality standard for the hostel mess food?,hostel_food_quality_en
+is the mess food good,hostel_food_quality_en
+how hygienic is the hostel kitchen,hostel_food_quality_en
+can we complain about bad food quality,hostel_food_quality_en
+is the drinking water safe in the mess,hostel_food_quality_en
+Are there special menu days available in the hostel mess?,hostel_special_menu_en
+any special food on festivals,hostel_special_menu_en
+do we get feast meals on holidays,hostel_special_menu_en
+is there a special dinner every month,hostel_special_menu_en
+what is served during campus events,hostel_special_menu_en
+What are the charges for the hostel mess fee?,hostel_mess_fee_en
+how much for mess bill,hostel_mess_fee_en
+what is the monthly cost for food,hostel_mess_fee_en
+how to calculate my mess dues,hostel_mess_fee_en
+is the mess fee included in hostel rent,hostel_mess_fee_en
+What are the structure details for the hostel accommodation fee?,hostel_accommodation_fee_en
+hostel rent,hostel_accommodation_fee_en
+how much does the dorm room cost,hostel_accommodation_fee_en
+price difference between ac and non ac rooms,hostel_accommodation_fee_en
+annual fees for staying in the hostel,hostel_accommodation_fee_en
+What is the last date to make a hostel fee payment?,hostel_fee_deadline_en
+last date for hostel fees,hostel_fee_deadline_en
+when is the dorm rent due,hostel_fee_deadline_en
+deadline for clearing mess bills,hostel_fee_deadline_en
+what happens if i pay hostel fee late,hostel_fee_deadline_en
+How can I pay my hostel fees via the online portal?,pay_hostel_fees_online_en
+pay hostel bill online,pay_hostel_fees_online_en
+how to clear my mess dues online,pay_hostel_fees_online_en
+where is the payment link for accommodation,pay_hostel_fees_online_en
+can i use netbanking for hostel fees,pay_hostel_fees_online_en
+What are the rules regarding the hostel fee refund policy?,hostel_fee_refund_en
+hostel fee refund rules,hostel_fee_refund_en
+if i vacate early do i get money back,hostel_fee_refund_en
+how to claim caution deposit for hostel,hostel_fee_refund_en
+will mess fee be refunded if i go home,hostel_fee_refund_en
+Is there a wifi internet facility available in the hostel?,hostel_wifi_facility_en
+is there wifi in hostel room,hostel_wifi_facility_en
+do dorms have internet connection,hostel_wifi_facility_en
+how fast is the hostel wifi,hostel_wifi_facility_en
+is there a data limit in the hostel,hostel_wifi_facility_en
+Where is the laundry facility located in the hostel?,hostel_laundry_location_en
+where to wash clothes in hostel,hostel_laundry_location_en
+are there washing machines in the dorm,hostel_laundry_location_en
+is laundry service paid or free,hostel_laundry_location_en
+how to use the hostel dhobi service,hostel_laundry_location_en
+Is there a study room facility available in the hostel?,hostel_study_room_en
+reading room in hostel,hostel_study_room_en
+is there a quiet place to study in the dorm,hostel_study_room_en
+timings for the hostel study area,hostel_study_room_en
+are study rooms open at night,hostel_study_room_en
+Is there a parking area available for students at the hostel?,hostel_parking_area_en
+can i park my bike at hostel,hostel_parking_area_en
+do hostellers get parking space,hostel_parking_area_en
+where can i park my car overnight,hostel_parking_area_en
+is the hostel parking safe,hostel_parking_area_en
+Are there elective subjects course structure?,course_electives_en
+do we have electives,course_electives_en
+can i choose optional subjects,course_electives_en
+what are the elective options for this semester,course_electives_en
+is it mandatory to take an elective,course_electives_en
+Are practical labs included course syllabus?,course_practical_labs_en
+do we have practicals,course_practical_labs_en
+is lab work a part of the degree,course_practical_labs_en
+will there be hands on training,course_practical_labs_en
+how many lab sessions per week,course_practical_labs_en
+How to change course specialization option?,change_specialization_en
+can i switch my specialization,change_specialization_en
+how to change my major subject,change_specialization_en
+process for switching electives after classes start,change_specialization_en
+is it possible to change my stream,change_specialization_en
+What is course semester system pattern?,semester_system_en
+how does the semester system work,semester_system_en
+how many months is one semester,semester_system_en
+is this a yearly or semester based course,semester_system_en
+explain the semester structure,semester_system_en
+Does course include project work mandatory?,course_project_work_en
+is final year project compulsory,course_project_work_en
+do we have to submit a final project,course_project_work_en
+is there a capstone project required,course_project_work_en
+details about the degree project work,course_project_work_en
+What is course language medium instruction?,course_instruction_language_en
+medium of teaching,course_instruction_language_en
+will the classes be in english,course_instruction_language_en
+what language are the exams written in,course_instruction_language_en
+can i write exams in my regional language,course_instruction_language_en
+Are there certification exams course included?,course_certifications_en
+do we get certificates,course_certifications_en
+are external certifications part of the syllabus,course_certifications_en
+will the college provide extra certificates,course_certifications_en
+does this course offer additional certifications,course_certifications_en
+What is course upgrade option availability?,course_upgrade_options_en
+can i upgrade my course,course_upgrade_options_en
+how to shift from diploma to degree,course_upgrade_options_en
+process to upgrade my current program,course_upgrade_options_en
+is there an option for an honors upgrade,course_upgrade_options_en
+Can students switch course mid semester?,switch_course_mid_semester_en
+change course midway,switch_course_mid_semester_en
+can i drop this course and join another,switch_course_mid_semester_en
+is it allowed to change branches in the middle,switch_course_mid_semester_en
+switching degree programs after a month,switch_course_mid_semester_en
+What is course accreditation status details?,course_accreditation_en
+is this naac accredited,course_accreditation_en
+does the college have nba accreditation,course_accreditation_en
+what is the grade of the institution,course_accreditation_en
+is the engineering program aicte approved,course_accreditation_en
+How to check course availability seats?,course_seat_availability_en
+how many seats left,course_seat_availability_en
+is the admission full for this course,course_seat_availability_en
+where to check the intake capacity,course_seat_availability_en
+are there any vacant seats remaining,course_seat_availability_en
+What is course registration last date?,course_registration_deadline_en
+last date to apply,course_registration_deadline_en
+when does admission close,course_registration_deadline_en
+what is the deadline for course enrollment,course_registration_deadline_en
+how much time is left to register,course_registration_deadline_en
+Are bridge courses available new students?,course_bridge_program_en
+bridge course for freshers,course_bridge_program_en
+do you offer foundation classes,course_bridge_program_en
+is there a prep course before college starts,course_bridge_program_en
+details about the bridge program for new batch,course_bridge_program_en
+What is course evaluation method used?,course_evaluation_method_en
+how are we graded,course_evaluation_method_en
+what is the assessment criteria,course_evaluation_method_en
+how do teachers evaluate our performance,course_evaluation_method_en
+explain the evaluation process for this degree,course_evaluation_method_en
+Is there course orientation program schedule?,course_orientation_en
+when is orientation day,course_orientation_en
+date for the fresher induction program,course_orientation_en
+do i have to attend the orientation,course_orientation_en
+schedule for the first day of college,course_orientation_en
+What is assignment format document requirements?,assignment_format_requirements_en
+pdf or word format,assignment_format_requirements_en
+how should the assignment document look,assignment_format_requirements_en
+font size and spacing for assignments,assignment_format_requirements_en
+rules for formatting the homework file,assignment_format_requirements_en
+Are handwritten assignments allowed submission?,handwritten_assignments_en
+can i handwrite the assignment,handwritten_assignments_en
+do we have to type it or write on paper,handwritten_assignments_en
+is scanned copy of handwritten assignment okay,handwritten_assignments_en
+will teachers accept paper assignments,handwritten_assignments_en
+How many assignments per subject required?,assignments_per_subject_en
+total assignments per sem,assignments_per_subject_en
+how much homework do we get,assignments_per_subject_en
+number of internal assignments per course,assignments_per_subject_en
+are there weekly assignments for every subject,assignments_per_subject_en
+What is plagiarism policy assignment rules?,assignment_plagiarism_policy_en
+plagarism rules,assignment_plagiarism_policy_en
+what happens if i copy paste my assignment,assignment_plagiarism_policy_en
+acceptable plagiarism percentage,assignment_plagiarism_policy_en
+consequences of copying someone elses work,assignment_plagiarism_policy_en
+Can assignment be resubmitted corrections?,assignment_resubmission_en
+resubmit my assignment,assignment_resubmission_en
+if i make a mistake can i upload again,assignment_resubmission_en
+does the portal allow multiple submissions,assignment_resubmission_en
+how to replace the wrong file i uploaded,assignment_resubmission_en
+What is assignment grading criteria details?,assignment_grading_criteria_en
+how are assignments marked,assignment_grading_criteria_en
+what do teachers look for in assignments,assignment_grading_criteria_en
+how to get full marks in internals,assignment_grading_criteria_en
+basis of grading the project work,assignment_grading_criteria_en
+Are group assignments allowed collaboration?,group_assignments_en
+can we do it as a group,group_assignments_en
+is team work allowed for this project,group_assignments_en
+how many people can be in one group,group_assignments_en
+rules for group assignment submissions,group_assignments_en
+How to check assignment feedback comments?,assignment_feedback_en
+view teacher feedback,assignment_feedback_en
+where can i see what the professor said about my work,assignment_feedback_en
+how to check remarks on my assignment,assignment_feedback_en
+where are the grading comments shown,assignment_feedback_en
+What is assignment file size limit upload?,assignment_file_size_en
+max file size for upload,assignment_file_size_en
+my pdf is too large to submit,assignment_file_size_en
+what is the upload limit on the portal,assignment_file_size_en
+how to compress file for assignment upload,assignment_file_size_en
+Can parents track assignment submission status?,parent_track_assignments_en
+can my parents see my submissions,parent_track_assignments_en
+do parents get notified if i miss homework,parent_track_assignments_en
+is there an assignment tracker for parents,parent_track_assignments_en
+how can family check my academic progress,parent_track_assignments_en
+What is assignment evaluation timeline process?,assignment_evaluation_timeline_en
+how long to grade assignment,assignment_evaluation_timeline_en
+when will we get our assignment marks,assignment_evaluation_timeline_en
+time taken by teachers to correct assignments,assignment_evaluation_timeline_en
+when are the internal scores published,assignment_evaluation_timeline_en
+Are assignments compulsory pass criteria?,assignment_compulsory_pass_en
+do i have to pass assignments,assignment_compulsory_pass_en
+can i fail if i dont submit homework,assignment_compulsory_pass_en
+is it mandatory to clear internal assignments,assignment_compulsory_pass_en
+what is the minimum mark for assignments,assignment_compulsory_pass_en
+How to request assignment extension approval?,assignment_extension_en
+need more time for assignment,assignment_extension_en
+can i get an extension on the deadline,assignment_extension_en
+how to ask the professor for a late submission,assignment_extension_en
+process for requesting extra time for project,assignment_extension_en
+What is assignment topic selection guidelines?,assignment_topic_selection_en
+how to choose topic,assignment_topic_selection_en
+do we pick our own assignment topic,assignment_topic_selection_en
+where is the list of approved topics,assignment_topic_selection_en
+can i change my project topic later,assignment_topic_selection_en
+Can assignment be submitted offline mode?,offline_assignment_submission_en
+submit hard copy,offline_assignment_submission_en
+can i give the printout to the teacher,offline_assignment_submission_en
+is physical submission allowed,offline_assignment_submission_en
+where to submit the hard copy of the project,offline_assignment_submission_en
+What is assignment marking rubric system?,assignment_marking_rubric_en
+show me the marking rubric,assignment_marking_rubric_en
+where can i find the grading rubric,assignment_marking_rubric_en
+how are the points distributed in the assignment,assignment_marking_rubric_en
+rubric breakdown for internal evaluation,assignment_marking_rubric_en
+Are assignments included final grade calculation?,assignments_final_grade_en
+do assignments count for final marks,assignments_final_grade_en
+weightage of homework in final cgpa,assignments_final_grade_en
+how much does assignment contribute to degree,assignments_final_grade_en
+are internal marks added to the transcript,assignments_final_grade_en
+What is assignment plagiarism checking tool?,plagiarism_checking_tool_en
+which software checks plagarism,plagiarism_checking_tool_en
+does the college use turnitin,plagiarism_checking_tool_en
+how is plagiarism detected,plagiarism_checking_tool_en
+what tool do teachers use to check copied work,plagiarism_checking_tool_en
+Can students skip assignment submission?,skip_assignment_en
+what if i dont submit,skip_assignment_en
+is it okay if i miss one assignment,skip_assignment_en
+consequences of not doing the homework,skip_assignment_en
+can i just skip the internal project,skip_assignment_en
+What is assignment revision correction policy?,assignment_revision_policy_en
+can i revise my work,assignment_revision_policy_en
+if i score low can i redo the assignment,assignment_revision_policy_en
+rules for rewriting a rejected project,assignment_revision_policy_en
+does the teacher allow corrections before grading,assignment_revision_policy_en
+Are assignment templates provided institute?,assignment_templates_en
+is there a cover page template,assignment_templates_en
+where to find the official college title page,assignment_templates_en
+do we have a standard format to follow,assignment_templates_en
+link to download the assignment template word file,assignment_templates_en
+How to contact teacher assignment clarification?,contact_teacher_assignment_en
+ask teacher about assignment,contact_teacher_assignment_en
+i have a doubt regarding the homework,contact_teacher_assignment_en
+how to message the professor for project help,contact_teacher_assignment_en
+who to ask if the assignment question is confusing,contact_teacher_assignment_en
+Can attendance be condoned medical reasons?,medical_attendance_condonation_en
+medical leave for attendance,medical_attendance_condonation_en
+what if i miss classes due to sickness,medical_attendance_condonation_en
+how to submit a medical certificate for attendance,medical_attendance_condonation_en
+does medical leave count as present,medical_attendance_condonation_en
+How to apply attendance leave approval?,apply_attendance_leave_en
+how to apply for leave,apply_attendance_leave_en
+process for getting leave sanctioned,apply_attendance_leave_en
+where is the leave application form,apply_attendance_leave_en
+how to request a day off from college,apply_attendance_leave_en
+What is attendance calculation method system?,attendance_calculation_method_en
+how is attendance calculated,attendance_calculation_method_en
+how do they calculate the 75 percent,attendance_calculation_method_en
+formula for attendance percentage,attendance_calculation_method_en
+is attendance calculated per subject or overall,attendance_calculation_method_en
+Are online classes attendance counted?,online_class_attendance_en
+do online classes count for attendence,online_class_attendance_en
+how is attendance taken in zoom,online_class_attendance_en
+if my internet disconnects will i be marked absent,online_class_attendance_en
+is remote learning attendance mandatory,online_class_attendance_en
+What is attendance marking system biometric?,biometric_attendance_en
+is there biometric attendance,biometric_attendance_en
+do we have to punch in our fingerprints,biometric_attendance_en
+how does the id card scanner work for attendance,biometric_attendance_en
+is facial recognition used for marking presence,biometric_attendance_en
+Can parents view attendance report daily?,parents_view_attendance_en
+can parents check attendence,parents_view_attendance_en
+do my parents get an sms if i am absent,parents_view_attendance_en
+how can my family monitor my class presence,parents_view_attendance_en
+parent login for attendance portal,parents_view_attendance_en
+What is attendance defaulter warning policy?,attendance_warning_policy_en
+shortage of attendance warning,attendance_warning_policy_en
+when does the college send a warning letter,attendance_warning_policy_en
+how many absences trigger an alert,attendance_warning_policy_en
+what happens when you get on the defaulter list,attendance_warning_policy_en
+How many leaves allowed attendance criteria?,allowed_leaves_count_en
+how many days can i take leave,allowed_leaves_count_en
+total number of permitted absences,allowed_leaves_count_en
+how many classes can i bunk legally,allowed_leaves_count_en
+what is the maximum leave limit per semester,allowed_leaves_count_en
+What is attendance requirement exam eligibility?,attendance_exam_eligibility_en
+attendence needed for exams,attendance_exam_eligibility_en
+can i get hall ticket with 60 attendance,attendance_exam_eligibility_en
+minimum criteria to sit for the final test,attendance_exam_eligibility_en
+will they stop me from writing exams if i am absent,attendance_exam_eligibility_en
+Can attendance be corrected errors report?,attendance_correction_en
+attendance marked absent by mistake,attendance_correction_en
+i was present but marked absent what to do,attendance_correction_en
+how to fix a mistake in the attendance register,attendance_correction_en
+who can change my attendance status,attendance_correction_en
+What is attendance tracking mobile app?,attendance_mobile_app_en
+app for checking attendance,attendance_mobile_app_en
+where to download the student attendance app,attendance_mobile_app_en
+how to use the college app to view leaves,attendance_mobile_app_en
+is there an ios app for the student portal,attendance_mobile_app_en
+Are late entries counted attendance present?,late_entry_attendance_en
+late to class attendance,late_entry_attendance_en
+if i am 10 minutes late will i get attendance,late_entry_attendance_en
+does coming late count as half day absent,late_entry_attendance_en
+rules for entering the class after it starts,late_entry_attendance_en
+What is attendance audit verification process?,attendance_audit_en
+attendance verification process,attendance_audit_en
+how often is attendance reviewed by admin,attendance_audit_en
+what is the monthly attendance check,attendance_audit_en
+who audits the student absence records,attendance_audit_en
+Can attendance be transferred between sections?,transfer_attendance_en
+transfer attendance to new section,transfer_attendance_en
+if i change batches will my attendance carry over,transfer_attendance_en
+how to merge attendance after changing electives,transfer_attendance_en
+will i lose attendance if i switch classes,transfer_attendance_en
+What is attendance holiday exemption rules?,holiday_attendance_exemption_en
+do holidays count in attendance,holiday_attendance_exemption_en
+how are public holidays treated in the calculation,holiday_attendance_exemption_en
+is attendance impacted by college closures,holiday_attendance_exemption_en
+are festival holidays marked as absent,holiday_attendance_exemption_en
+How to download attendance report PDF?,download_attendance_report_en
+download attendance sheet,download_attendance_report_en
+how to get a printout of my semester attendance,download_attendance_report_en
+where to generate attendance certificate,download_attendance_report_en
+how to export my leave history to pdf,download_attendance_report_en
+What is attendance shortage re-evaluation process?,attendance_reevaluation_en
+recalculate my attendance,attendance_reevaluation_en
+how to appeal my attendance shortage,attendance_reevaluation_en
+can i ask the hod to recount my presence,attendance_reevaluation_en
+process for challenging the defaulter list,attendance_reevaluation_en
+Are practical classes attendance compulsory?,practical_class_attendance_en
+is lab attendance strict,practical_class_attendance_en
+what if i miss a laboratory session,practical_class_attendance_en
+is 100 percent attendance needed for practicals,practical_class_attendance_en
+can i reschedule a missed lab class,practical_class_attendance_en
+What is attendance grace marks policy?,attendance_grace_marks_en
+grace marks for full attendance,attendance_grace_marks_en
+do i get extra marks for 100 attendance,attendance_grace_marks_en
+is there a reward for not missing any classes,attendance_grace_marks_en
+how does perfect attendance help my grades,attendance_grace_marks_en
+How attendance affects internal marks grading?,attendance_internal_marks_en
+marks for attendance,attendance_internal_marks_en
+is there a weightage for attendance in internals,attendance_internal_marks_en
+how many points do i lose for skipping class,attendance_internal_marks_en
+connection between class presence and assessment score,attendance_internal_marks_en
+Can attendance be waived special cases?,attendance_waiver_en
+attendance waiver for sports,attendance_waiver_en
+exemption for participating in ncc or nss,attendance_waiver_en
+if i represent college in a tournament do i get attendance,attendance_waiver_en
+how to apply for on duty attendance leave,attendance_waiver_en
+What is attendance policy for internships?,internship_attendance_policy_en
+attendance during internship,internship_attendance_policy_en
+do i need to attend college while doing an internship,internship_attendance_policy_en
+how is presence calculated for industry training,internship_attendance_policy_en
+certificate of attendance from employer,internship_attendance_policy_en
+how to download exam timetable schedule,download_exam_timetable_en
+what is grading system cgpa calculation,cgpa_calculation_en
+where can i download the final exam timetable,download_exam_timetable_en
+give me the pdf link for the exam schedule,download_exam_timetable_en
+how to get the datesheet for exams,download_exam_timetable_en
+download semester exam dates,download_exam_timetable_en
+what is the tuition fee for the semester,course_fee_structure_en
+how much is the academic fee for this degree,course_fee_structure_en
+total cost of the academic program,course_fee_structure_en
+course fee breakdown and tuition charges,course_fee_structure_en
+how much do i pay for college classes,course_fee_structure_en
+what is the rent for the hostel room,hostel_accommodation_fee_en
+how much does dorm accommodation cost,hostel_accommodation_fee_en
+hostel room fee structure for ac and non ac,hostel_accommodation_fee_en
+annual charges for staying in the college dorms,hostel_accommodation_fee_en
+how much do i pay for staying on campus,hostel_accommodation_fee_en
+how much is the food bill in the hostel,hostel_mess_fee_en
+monthly cost for the mess food,hostel_mess_fee_en
+mess fee charges and dining hall dues,hostel_mess_fee_en
+payment for hostel meals and dinner,hostel_mess_fee_en
+is the canteen or mess fee separate,hostel_mess_fee_en
+how is my attendance percentage calculated,attendance_calculation_method_en
+what is the mathematical formula for attendance,attendance_calculation_method_en
+how do you calculate class presence ratio,attendance_calculation_method_en
+how does the college measure my attendance,attendance_calculation_method_en
+explain the calculation for present days,attendance_calculation_method_en
+what happens if my attendance is below minimum,attendance_shortage_penalty_en
+punishment for low attendance in class,attendance_shortage_penalty_en
+detained due to attendance shortage consequences,attendance_shortage_penalty_en
+will i be penalized for bunking too many classes,attendance_shortage_penalty_en
+action taken against students with poor attendance,attendance_shortage_penalty_en
+minimum attendance required to write final exams,attendance_exam_eligibility_en
+can i get my hall ticket with low attendance,attendance_exam_eligibility_en
+attendance requirement for generating hall ticket,attendance_exam_eligibility_en
+will they stop me from taking the exam if i am absent,attendance_exam_eligibility_en
+eligibility criteria for sitting in the semester exam,attendance_exam_eligibility_en
+what is the penalty for late fee payment,late_fee_penalty_en
+how much is the fine if i pay tuition after the deadline,late_fee_penalty_en
+charges for overdue college fee submission,late_fee_penalty_en
+what happens if i miss the fee payment date,late_fee_penalty_en
+late fine amount for semester dues,late_fee_penalty_en
+what is the exact deadline to pay semester fees,fee_payment_deadline_en
+last date to clear all college dues without fine,fee_payment_deadline_en
+when is the tuition fee supposed to be paid,fee_payment_deadline_en
+schedule and dates for fee submission,fee_payment_deadline_en
+how much time do i have to pay the college fees,fee_payment_deadline_en
+What is exam revaluation process steps?,exam_revaluation_process_en
+how to apply for exam paper revaluation,exam_revaluation_process_en
+what is the process for re-evaluating my exam marks,exam_revaluation_process_en
+steps to apply for rechecking of answer script,exam_revaluation_process_en
+how to challenge my exam score,exam_revaluation_process_en
+i want my exam paper rechecked what is the procedure,exam_revaluation_process_en
