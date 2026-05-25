@@ -1,0 +1,205 @@
+Category,Intent
+Course,course_syllabus
+Course,course_subjects
+Course,course_duration
+Course,course_recognition
+Course,course_eligibility
+Course,course_internship
+Course,course_learning_outcomes
+Course,download_curriculum
+Course,course_delivery_mode
+Course,course_specializations
+Course,course_credits
+Course,course_admission_process
+Course,course_electives
+Course,course_fee_structure
+Course,course_beginner_friendly
+Course,course_industry_scope
+Course,course_practical_labs
+Course,change_specialization
+Course,semester_system
+Course,course_project_work
+Course,course_instruction_language
+Course,course_certifications
+Course,course_upgrade_options
+Course,switch_course_mid_semester
+Course,course_accreditation
+Course,course_seat_availability
+Course,course_registration_deadline
+Course,course_bridge_program
+Course,course_evaluation_method
+Course,course_orientation
+Assignment,assignment_deadline
+Assignment,assignment_upload_portal
+Assignment,assignment_format_requirements
+Assignment,handwritten_assignments
+Assignment,late_submission_penalty
+Assignment,assignments_per_subject
+Assignment,assignment_plagiarism_policy
+Assignment,assignment_resubmission
+Assignment,assignment_grading_criteria
+Assignment,group_assignments
+Assignment,assignment_feedback
+Assignment,assignment_file_size
+Assignment,parent_track_assignments
+Assignment,assignment_evaluation_timeline
+Assignment,assignment_compulsory_pass
+Assignment,assignment_extension
+Assignment,assignment_topic_selection
+Assignment,offline_assignment_submission
+Assignment,assignment_marking_rubric
+Assignment,assignments_final_grade
+Assignment,plagiarism_checking_tool
+Assignment,skip_assignment
+Assignment,assignment_revision_policy
+Assignment,assignment_templates
+Assignment,contact_teacher_assignment
+Attendance,minimum_attendance
+Attendance,check_attendance_status
+Attendance,attendance_shortage_penalty
+Attendance,medical_attendance_condonation
+Attendance,apply_attendance_leave
+Attendance,attendance_calculation_method
+Attendance,online_class_attendance
+Attendance,biometric_attendance
+Attendance,parents_view_attendance
+Attendance,attendance_warning_policy
+Attendance,allowed_leaves_count
+Attendance,attendance_exam_eligibility
+Attendance,attendance_correction
+Attendance,attendance_mobile_app
+Attendance,late_entry_attendance
+Attendance,attendance_audit
+Attendance,transfer_attendance
+Attendance,holiday_attendance_exemption
+Attendance,download_attendance_report
+Attendance,attendance_reevaluation
+Attendance,practical_class_attendance
+Attendance,attendance_grace_marks
+Attendance,attendance_internal_marks
+Attendance,attendance_waiver
+Attendance,internship_attendance_policy
+Exam,exam_rules_policy
+Exam,apply_hall_ticket
+Exam,exam_revaluation_process
+Exam,calculators_in_exam
+Exam,exam_malpractice_penalty
+Exam,check_exam_results
+Exam,exam_supplementary_policy
+Exam,parents_exam_center
+Exam,exam_duration_pattern
+Exam,download_exam_timetable
+Exam,exam_attendance_rules
+Exam,postpone_exam_medical
+Exam,exam_evaluation_method
+Exam,open_book_exams
+Exam,exam_grading_moderation
+Exam,exam_improvement_attempt
+Exam,exam_center_location
+Exam,mobile_phones_in_exam
+Exam,exam_invigilator_instructions
+Exam,report_exam_discrepancy
+Exam,supplementary_registration
+Exam,choose_exam_center
+Exam,exam_pass_criteria
+Exam,online_exam_proctoring
+Exam,report_exam_malpractice
+Grading / Assessment,cgpa_calculation
+Grading / Assessment,internal_marks_calculation
+Grading / Assessment,percentage_conversion
+Grading / Assessment,assignments_in_grading
+Grading / Assessment,grading_transparency
+Grading / Assessment,improve_grades
+Grading / Assessment,grading_weightage
+Grading / Assessment,practical_marks_grading
+Grading / Assessment,grading_revaluation_policy
+Grading / Assessment,check_grade_card
+Grading / Assessment,distinction_criteria
+Grading / Assessment,grades_affected_attendance
+Grading / Assessment,grading_audit
+Grading / Assessment,convert_cgpa_percentage
+Grading / Assessment,grading_moderation
+Grading / Assessment,bonus_marks
+Grading / Assessment,grading_failure_criteria
+Grading / Assessment,grade_correction
+Grading / Assessment,grading_improvement_attempts
+Grading / Assessment,grades_shared_parents
+Timetable / Schedule,check_class_timetable
+Timetable / Schedule,timetable_update_notification
+Timetable / Schedule,timetable_changes_informed
+Timetable / Schedule,lab_schedule_timing
+Timetable / Schedule,download_timetable_pdf
+Timetable / Schedule,weekend_class_schedule
+Timetable / Schedule,extra_classes_holidays
+Timetable / Schedule,timetable_clash_resolution
+Timetable / Schedule,view_faculty_timetable
+Timetable / Schedule,class_duration_period
+Timetable / Schedule,online_class_timings
+Timetable / Schedule,semester_timetable_plan
+Timetable / Schedule,request_timetable_change
+Timetable / Schedule,exam_timetable_announcement
+Timetable / Schedule,remedial_classes_schedule
+Timetable / Schedule,timetable_mobile_app
+Timetable / Schedule,track_daily_schedule
+Timetable / Schedule,holiday_timetable_adjustment
+Timetable / Schedule,timetable_conflicts_electives
+Timetable / Schedule,timetable_flexibility
+Faculty / Contact,contact_faculty_email
+Faculty / Contact,faculty_office_hours
+Faculty / Contact,meet_teacher_appointment
+Faculty / Contact,faculty_phone_number
+Faculty / Contact,parents_meet_faculty
+Faculty / Contact,faculty_feedback_process
+Faculty / Contact,report_faculty_complaint
+Faculty / Contact,mentor_allocation_support
+Faculty / Contact,faculty_online_consultation
+Faculty / Contact,faculty_response_time
+Faculty / Contact,contact_department_head
+Faculty / Contact,faculty_advisory_role
+Faculty / Contact,faculty_meetings_parents
+Faculty / Contact,faculty_evaluation_system
+Faculty / Contact,request_recommendation_letter
+Academic Regulations,academic_handbook
+Academic Regulations,promotion_policy_semester
+Academic Regulations,semester_break_leave
+Academic Regulations,academic_misconduct_policy
+Academic Regulations,course_withdrawal_process
+Academic Regulations,academic_probation_criteria
+Academic Regulations,readmission_policy
+Academic Regulations,credit_transfer_policy
+Academic Regulations,appeal_academic_decision
+Academic Regulations,academic_integrity_policy
+Fees & Payment,fee_payment_deadline
+Fees & Payment,pay_fees_online
+Fees & Payment,fee_refund_policy
+Fees & Payment,fee_installment_options
+Fees & Payment,late_fee_penalty
+Fees & Payment,download_fee_receipt
+Fees & Payment,scholarship_eligibility
+Fees & Payment,parents_fee_payment
+Fees & Payment,hostel_fee_included
+Fees & Payment,apply_fee_concession
+Facilities & Support,library_access_hours
+Facilities & Support,campus_wifi_login
+Facilities & Support,student_counseling_services
+Facilities & Support,medical_facilities_campus
+Facilities & Support,transport_facility_routes
+Facilities & Support,lab_equipment_booking
+Facilities & Support,hostel_facility_details
+Facilities & Support,sports_facilities_students
+Facilities & Support,placement_support_training
+Facilities & Support,report_maintenance_issue
+Hostel,hostel_mess_menu
+Hostel,hostel_meal_timings
+Hostel,hostel_food_options
+Hostel,hostel_food_quality
+Hostel,hostel_special_menu
+Hostel,hostel_mess_fee
+Hostel,hostel_accommodation_fee
+Hostel,hostel_fee_deadline
+Hostel,pay_hostel_fees_online
+Hostel,hostel_fee_refund
+Hostel,hostel_wifi_facility
+Hostel,hostel_laundry_location
+Hostel,hostel_study_room
+Hostel,hostel_parking_area
